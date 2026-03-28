@@ -1,6 +1,8 @@
-# Gbammiri - Water Delivery Service Backend API
+#📦 Water Delivery & Logistics API
 
-Gbammiri is a complete backend system for a **water delivery service app** that allows customers to order bottled water (or tanker services) seamlessly. The platform integrates with:
+
+A scalable backend system for managing water delivery operations, built with FastAPI and designed for real-world logistics workflows.
+
 
 - **WhatsApp Business API** – For receiving orders, sending order confirmations, delivery updates, and customer support directly via WhatsApp.
 - **Google Maps API** – For address autocomplete, distance calculation, delivery zone validation, and estimated delivery time.
@@ -33,7 +35,7 @@ This project demonstrates real-world backend development skills: REST API design
 - **Clean & Scalable Architecture**  
   Modular code with separation of concerns (models, schemas, CRUD, utilities).
 
-## 🛠️ Tech Stack
+## 🛠️ System Architecture
 
 - **Framework**: FastAPI (Python 3.10+)
 - **ORM**: SQLAlchemy
